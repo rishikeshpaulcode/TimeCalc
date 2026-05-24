@@ -62,3 +62,19 @@ Project: Time Calculation Library build using python
     
     > **Note:** stop loop if error occurs in any step, display error message and continue with next iteration
 3. **terminate program**
+
+---
+
+## Installation
+
+You can install this library directly from GitHub using `pip`:
+> pip install git+https://github.com/rishikeshpaulcode/TimeCalc.git
+
+---
+
+## Clone the Repository
+
+1. **Using HTTPS**:
+    > git clone https://github.com/rishikeshpaulcode/TimeCalc.git
+2. **Using GitHub CLI**:
+    > gh repo clone rishikeshpaulcode/TimeCalc
